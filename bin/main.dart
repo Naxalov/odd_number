@@ -1,3 +1,4 @@
 void main() {
-  print('Hello, world!');
+  int number = 10;
+  print(number % 2);
 }
